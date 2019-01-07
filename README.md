@@ -1,5 +1,5 @@
 # Recipes
-A collection of recipes
+A collection of plant-based recipes
 
 - [Breakfast](https://github.com/thomasthesecond/recipes/tree/master/breakfast)
 - [Lunch](https://github.com/thomasthesecond/recipes/tree/master/lunch)
