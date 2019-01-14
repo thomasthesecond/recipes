@@ -1,4 +1,8 @@
-# Sweet and spicy sauce
+---
+path: "/recipes/sauces/sweet-spicy–sauce"
+date: "2017-11-07"
+title: "Sweet and spicy sauce"
+---
 
 | Prep | Cook | Ready In | Yield    |
 | ---- | ---- | -------- | -------- |

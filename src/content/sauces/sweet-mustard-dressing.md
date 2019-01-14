@@ -1,4 +1,8 @@
-# Sweet mustard dressing
+---
+path: "/recipes/sauces/sweet-mustard-dressing"
+date: "2017-11-07"
+title: "Sweet mustard dressing"
+---
 
 | Prep | Cook | Ready In | Yield    |
 | ---- | ---- | -------- | -------- |

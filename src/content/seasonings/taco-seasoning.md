@@ -1,4 +1,8 @@
-# Taco seasoning
+---
+path: "/recipes/seasonings/taco-seasoning"
+date: "2017-11-07"
+title: "Taco seasoning"
+---
 
 | Prep | Cook | Ready In | Yield    |
 | ---- | ---- | -------- | -------- |

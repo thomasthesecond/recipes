@@ -1,4 +1,8 @@
-# Ranch dressing
+---
+path: "/recipes/sauces/ranch-dressing"
+date: "2017-11-07"
+title: "Ranch dressing"
+---
 
 | Prep | Cook | Ready In | Yield  |
 | ---- | ---- | -------- | ------ |
